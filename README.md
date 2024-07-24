@@ -16,6 +16,7 @@
 - Tailwind;
 - Prisma;
 - Zod;
+- Amazon S3;
 
 ### `npm run dev`
 
