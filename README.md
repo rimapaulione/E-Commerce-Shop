@@ -3,7 +3,7 @@
 <p>This application is an educational project created with Next.js, Prisma and Stripe. 
   </p>
 
-## [E-Commerce Shop project preview](https://)
+## [E-Commerce Shop project preview](https://e-commerce-shop-next.vercel.app/)
 
 <img src="/src/assets/e-commerce.png" alt="E-Commerce Shop" >
 
